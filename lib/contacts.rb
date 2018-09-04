@@ -26,6 +26,6 @@ def remove_strawberry(contacts)
     end
   end
 #binding.pry
-#contacts
+contacts
 #binding.pry
 end
