@@ -20,7 +20,7 @@ def remove_strawberry(contacts)
     if name == "Freddy Mercury"
       data.each do |attributes, value|
         if attributes == :favorite_ice_cream_flavors
-          vlaue.delete("strawberry")
+          value.delete("strawberry")
         end
       end
     end
